@@ -10,3 +10,7 @@ DATE FORMAT : DD-MM-YYYY
 
 ### 27-03-2017
 [1]-[comandline app]: https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/?utm_source=javascriptweekly&utm_medium=email#hello-world
+
+
+### 04-04-2019
+[1]-[ng-container][angular]: ### 27-03-2017 [1]-[comandline app]: https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691
