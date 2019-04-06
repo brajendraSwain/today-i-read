@@ -14,3 +14,6 @@ DATE FORMAT : DD-MM-YYYY
 
 ### 04-04-2019
 [2]-[ng-container][angular]: ### 27-03-2017 [1]-[comandline app]: https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691
+
+### 06-04-2019
+[3] [video] [angular change detection] https://www.youtube.com/watch?v=DsBy9O0c6eo
