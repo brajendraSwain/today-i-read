@@ -21,5 +21,7 @@ DATE FORMAT : DD-MM-YYYY
 ```
  * when parent component update it all child components checked with bindings.. all view update lifecycle events calls for them i.e. afterViewChecked
  ```
-### 07-04-2019 [angular change detection] [https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10]
+ 
+### 07-04-2019
+[4][angular change detection] [https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10]
  [Note on the read](https://github.com/brajendraSwain/today-i-read/blob/master/angular-change-detection.md)
