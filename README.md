@@ -28,6 +28,6 @@ DATE FORMAT : DD-MM-YYYY
  [Note on the read](https://github.com/brajendraSwain/today-i-read/blob/master/angular-change-detection.md)
  
 ### 15-02-2020
-[4] - [angular rendering **] [https://indepth.dev/the-mechanics-of-dom-updates-in-angular/]
+[5] - [angular rendering **] [https://indepth.dev/the-mechanics-of-dom-updates-in-angular/]
 
  [Note on the read](https://github.com/brajendraSwain/today-i-read/blob/master/angular-rendering.md)
